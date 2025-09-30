@@ -1,0 +1,5 @@
+{
+  "name": "BrainCoding",
+  "description": "An interactive web application to help users learn rules (e.g., grammar, math, definitions) by getting simple explanations from AI and practicing with smart hints.",
+  "requestFramePermissions": []
+}
